@@ -1,1 +1,1 @@
-# lab2_DzugaevaLV
+# Report template on laboratory work
